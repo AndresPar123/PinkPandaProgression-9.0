@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Gouden Panda">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd34d"/><stop offset="1" stop-color="#6b2e18"/></linearGradient><radialGradient id="glow"><stop offset="0" stop-color="#fff4fc" stop-opacity=".7"/><stop offset="1" stop-color="#fff4fc" stop-opacity="0"/></radialGradient><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="9" stdDeviation="7" flood-color="#09030f" flood-opacity=".65"/></filter></defs>
+<rect width="320" height="320" rx="36" fill="url(#bg)"/><circle cx="80" cy="62" r="100" fill="url(#glow)"/><circle cx="258" cy="244" r="110" fill="url(#glow)"/>
+<g fill="#fff" opacity=".85"><text x="34" y="60" font-size="28">✦</text><text x="260" y="78" font-size="22">✦</text><text x="270" y="185" font-size="19">✦</text><text x="42" y="242" font-size="20">✧</text></g>
+<ellipse cx="160" cy="267" rx="105" ry="26" fill="#140817" opacity=".4"/>
+<g filter="url(#shadow)"><text x="160" y="236" font-size="174" text-anchor="middle" font-family="Apple Color Emoji,Segoe UI Emoji,Noto Color Emoji,sans-serif">🐼</text><text x="160" y="116" font-size="62" text-anchor="middle" font-family="Apple Color Emoji,Segoe UI Emoji,Noto Color Emoji,sans-serif">👑</text></g>
+<rect x="12" y="12" width="296" height="296" rx="30" fill="none" stroke="#ffd8f0" stroke-opacity=".7" stroke-width="3"/>
+<rect x="19" y="267" width="282" height="37" rx="14" fill="#170a20" fill-opacity=".78"/><text x="160" y="292" font-size="17" font-weight="800" fill="#fff3fb" text-anchor="middle" font-family="system-ui,sans-serif">Gouden Panda</text>
+</svg>

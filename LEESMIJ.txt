@@ -1,0 +1,19 @@
+PinkPandaProgression — versie met 2 tabbladen
+
+Wat is aangepast:
+- Alleen de tabbladen Oefeningen en Shop blijven zichtbaar.
+- De geselecteerde panda motiveert je bovenaan bij Oefeningen met een tekstballon.
+- De shop bevat 15 unieke panda-afbeeldingen, prijzen en selectie/koopknoppen.
+- Het bestaande fitnessgedeelte blijft behouden: oefeningen, sets, gewicht, reps, notities, geschiedenis en progressiegrafieken.
+- Eén muntje wordt verdiend per opgeslagen oefeningstraining.
+
+Installatie:
+1. Pak de ZIP uit.
+2. Upload alle bestanden en de map pandas naar de hoofdmap van je GitHub-repository.
+3. Vervang bestaande bestanden wanneer GitHub dat vraagt.
+4. Wacht tot GitHub Pages klaar is en open de website opnieuw.
+
+Gegevens worden lokaal in de browser opgeslagen. Bestaande gegevens worden niet gewist door deze update.
+
+
+Nieuw in deze versie: een compacte rusttimer op de oefeningpagina, boven de datum. Kies 1,5, 2, 2,5 of 3 minuten en gebruik Start/Pauze of reset.
